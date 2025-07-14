@@ -18,6 +18,6 @@ This is a responsive and interactive **Employee Directory Web Interface** built 
 
 ---
 
-## 📁 Project Structure
+## 📁 User Interface
 
 <img width="1912" height="947" alt="ajackus employee directory project" src="https://github.com/user-attachments/assets/00b575a1-d32c-48a2-88f6-9a4c4e539ded" />
